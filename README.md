@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
