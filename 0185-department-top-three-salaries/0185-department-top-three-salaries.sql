@@ -1,12 +1,18 @@
-SELECT d.name AS Department,
-       e.name AS Employee,
-       e.salary AS Salary
-FROM Employee e
-JOIN Department d
-ON e.departmentId = d.id
-WHERE 3 > (
-    SELECT COUNT(DISTINCT salary)
+WITH CTE AS (
+    SELECT departmentId,
+           name,
+           salary,
+           DENSE_RANK() OVER (
+               PARTITION BY departmentId
+               ORDER BY salary DESC
+           ) AS rnk
     FROM Employee
-    WHERE departmentId = e.departmentId
-    AND salary > e.salary
-);
+)
+
+SELECT d.name AS Department,
+       c.name AS Employee,
+       c.salary AS Salary
+FROM CTE c
+JOIN Department d
+ON c.departmentId = d.id
+WHERE c.rnk <= 3;
