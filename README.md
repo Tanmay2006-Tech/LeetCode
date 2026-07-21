@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0061-rotate-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
