@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0062-unique-paths) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
