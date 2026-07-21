@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
