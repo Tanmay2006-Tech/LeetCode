@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
