@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Tanmay2006-Tech/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
 | ------- |
